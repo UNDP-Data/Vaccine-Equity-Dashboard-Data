@@ -33,12 +33,38 @@ Currently, the country and regionallevel data presented on the Global Dashboard 
 <td><a href="https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker
 ">IMF-WHO-COVID-19-Vaccine-Supply-Tracker</a></td>
 </tr>
+
 <tr>
 <td><code>deliveredpopulation</code></td>
 <td>Vaccine doses received (% of population)</td>
 <td>Delivered vaccines includes vaccines that have been made available in the country (% of population)</td>
 <td><a href="https://data.covid19taskforce.com/data/tools/vaccine-delivery">Multilateral Leaders Task Force on COVID-19</a></td>
 </tr>
+
+<tr>
+<td><code>donationsoftotal</code></td>
+<td>Percent donations received</td>
+<td>Records the number of received vaccine donations as a percentage of all vaccine deliveries.</td>
+<td><a href="https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker
+">IMF-WHO-COVID-19-Vaccine-Supply-Tracker</a></td>
+</tr>
+
+<tr>
+<td><code>utilrate_lag</code></td>
+<td>Percentage administered of total delivered vaccines</td>
+<td>Percentage of the delivered vaccines that have been administered. A two-week lag is used for delivered vaccines to allow for delivery lead time.</td>
+<td><a href="https://data.covid19taskforce.com/data/tools/vaccine-delivery">Multilateral Leaders Task Force on COVID-19</a></td>
+</tr>
+
+<tr>
+<td><code>vaccine_willingness_monthly</code></td>
+<td>Vaccine willingness</td>
+<td>Percentage of individuals who would get vaccinated once a vaccine is available and recommended.</td>
+<td><a href="https://www.rcce-collective.net/data/behavioural-indicators/">Multilateral Leaders Task Force on COVID-19</a></td>
+</tr>
+
+
+
 
 </li>
 </ul>
