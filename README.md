@@ -78,7 +78,6 @@ Rank View
 ![alt text](https://github.com/UNDP-Data/Vaccine-Equity-Dashboard-Data/blob/main/Sample%20Analyses%20Images/Rank%20View.png "Rank View")
 
 
-
 ## Changelog
 On March 25, 2022, we uploaded the dataset to GitHub.
 
