@@ -11,8 +11,26 @@ The multidimensional and socio-economic approach to vaccine equity provides new 
 <h2> Our Dataset </h2>
 Currently, the country and regionallevel data presented on the Global Dashboard is divided into three broad themes.
 
+
 <ul>
-<li data-menu-item="i0code-tab" hidden> Accessibility: includes variables that describe the current global supply and its utilisation and in-country prioritisation.
+<li data-menu-item="i0code-tab" hidden> <b>Accessibility: </b>  includes variables that describe the current global supply and its utilisation and in-country prioritisation.
+<table>
+<thead>
+<tr>
+<th>Variable</th>
+<th>Variable Name</th>
+<th>Variable Description</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>securedvaccineofpopulation</code></td>
+<td>Secured and/or Expected Vaccine Supply in total courses (% of population)</td>
+<td>Final total secured and/or expected vaccine supply including bilateral deals, bilateral donations, COVAX, domestic supply and others (doses as percent of population).</td>
+<td><a href="https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker
+">IMF-WHO-COVID-19-Vaccine-Supply-Tracker</a></td>
+</tr>
 
 </li>
 </ul>
