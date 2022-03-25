@@ -73,8 +73,10 @@ Map View:
 Scatterplot View
 ![alt text](https://github.com/UNDP-Data/Vaccine-Equity-Dashboard-Data/blob/main/Sample%20Analyses%20Images/Scatterplot%20View.png "Scatterplot View")
 
+
 Rank View
 ![alt text](https://github.com/UNDP-Data/Vaccine-Equity-Dashboard-Data/blob/main/Sample%20Analyses%20Images/Rank%20View.png "Rank View")
+
 
 
 ## Changelog
