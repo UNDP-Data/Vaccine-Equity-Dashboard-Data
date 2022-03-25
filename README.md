@@ -63,6 +63,20 @@ Currently, the country and regionallevel data presented on the Global Dashboard 
 <td><a href="https://www.rcce-collective.net/data/behavioural-indicators/">Multilateral Leaders Task Force on COVID-19</a></td>
 </tr>
 
+<tr>
+<td><code>h7_vaccinationpolicy</code></td>
+<td>Vaccination delivery policy</td>
+<td>Records policies for vaccine delivery for different groups:
+0 - No availability
+1 - Availability for ONE of following: key workers/ clinically vulnerable groups (non elderly) / elderly groups
+2 - Availability for TWO of following: key workers/ clinically vulnerable groups (non elderly) / elderly groups
+3 - Availability for ALL of following: key workers/ clinically vulnerable groups (non elderly) / elderly groups
+4 - Availability for key workers/ clinically vulnerable groups (non elderly) / elderly groups plus partial additional availability
+5 - Universal availability
+</td>
+<td><a href="https://github.com/OxCGRT/covid-policy-tracker/">OxCGRT</a></td>
+</tr>
+
 
 
 
