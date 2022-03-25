@@ -67,14 +67,16 @@ contains variables on countries’ COVID-19 morbidity and mortality burden, the 
 Currently, the dataset is updated every Wednesday at 02:30am EST.
 
 ## Sample Analyses
-Map View:
+
+### Map View:
 ![alt text](https://github.com/UNDP-Data/Vaccine-Equity-Dashboard-Data/blob/main/Sample%20Analyses%20Images/Map%20View.png "Map View")
 
-Scatterplot View
+### Scatterplot View
 ![alt text](https://github.com/UNDP-Data/Vaccine-Equity-Dashboard-Data/blob/main/Sample%20Analyses%20Images/Scatterplot%20View.png "Scatterplot View")
 
 
-Rank View
+###Rank View
+
 ![alt text](https://github.com/UNDP-Data/Vaccine-Equity-Dashboard-Data/blob/main/Sample%20Analyses%20Images/Rank%20View.png "Rank View")
 
 
