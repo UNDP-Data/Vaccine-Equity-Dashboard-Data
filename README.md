@@ -14,7 +14,7 @@ The multidimensional and socio-economic approach to vaccine equity provides new 
 Currently, the country and regionallevel data presented on the Global Dashboard is divided into three broad themes.
 
 ### Accessibility:
-includes variables that describe the current global supply and its utilisation and in-country prioritisation.	
+Includes variables that describe the current global supply and its utilisation and in-country prioritisation.	
 
 | **Variable**      | **Variable Name** | **Variable Description**  | **Source** |
 | ------------- |-------------| -----| -----|
@@ -32,8 +32,8 @@ includes variables that describe the current global supply and its utilisation a
 | <code>uhc</code>  | UHC Index of service coverage (SCI) | UHC Index of service coverage (SCI) |Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population). The indicator is an index reported on a unitless scale of 0 to 100, which is computed as the geometric mean of 14 tracer indicators of health service coverage. The tracer indicators are as follows, organized by four components of service coverage: 1. Reproductive, maternal, newborn and child health 2. Infectious diseases 3. Noncommunicable diseases 4. Service capacity and access See the 2019 monitoring report for the tracer indicator within each component. | [WHO](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-index-of-service-coverage) |
 
 
-### Affordability
-includes variables depicting the estimated relative costs of vaccination campaigns as well as the affordability of vaccines to individuals.
+### Affordability:
+Includes variables depicting the estimated relative costs of vaccination campaigns as well as the affordability of vaccines to individuals.
 
 | **Variable**      | **Variable Name** | **Variable Description**  | **Source** |
 | ------------- |-------------| -----| -----|
@@ -52,8 +52,8 @@ includes variables depicting the estimated relative costs of vaccination campaig
 | <code>che</code>   | Current health expenditure (CHE) per capita in US$ | Current health expenditure (CHE) per capita in US$ |[WHO](https://apps.who.int/nha/database/ViewData/Indicators/en) |
 
 
-### Common
-contains variables on countries’ COVID-19 morbidity and mortality burden, the progress of their vaccination campaigns and their vulnerability to the ongoing pandemic.
+### Common:
+Contains variables on countries’ COVID-19 morbidity and mortality burden, the progress of their vaccination campaigns and their vulnerability to the ongoing pandemic.
 
 | **Variable**      | **Variable Name** | **Variable Description**  | **Source** |
 | ------------- |-------------| -----| -----|
