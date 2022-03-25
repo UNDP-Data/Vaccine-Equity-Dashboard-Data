@@ -43,7 +43,35 @@ includes variables depicting the estimated relative costs of vaccination campaig
 | <code>y2021NGDPDPC</code>     | Gross domestic product per capita, current prices | GDP is expressed in current U.S. dollars per person. Data are derived by first converting GDP in national currency to U.S. dollars and then dividing it by total population.|[IMF WEO October 2021](https://www.imf.org/en/Publications/WEO/Issues/2021/10/12/world-economic-outlook-october-2021) |
 | <code>y2021GGXWDG_NGDP</code>   | General government gross debt |Gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future. This includes debt liabilities in the form of SDRs, currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable. Thus, all liabilities in the GFSM 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options. Debt can be valued at current market, nominal, or face values (GFSM 2001, paragraph 7.110). |[IMF WEO October 2021](https://www.imf.org/en/Publications/WEO/Issues/2021/10/12/world-economic-outlook-october-2021) |
 | <code>e4_internationalsupport</code>   | COVID related aid spending | Announced offers of Covid-19 related aid spending to other countries |[OxCGRT](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) |
-| <code>e4_internationalsupport</code>   | COVID related aid spending | Announced offers of Covid-19 related aid spending to other countries |[OxCGRT](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) |
+| <code>h5_investmentinvaccines</code>   | Public spending on vaccine development (USD) | Announced public spending on Covid-19 vaccine development |[OxCGRT](https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker) |
+| <code>che</code>   | Current health expenditure (CHE) per capita in US$ | Current health expenditure (CHE) per capita in US$ |[WHO](https://apps.who.int/nha/database/ViewData/Indicators/en) |
+
+
+### Common
+contains variables on countries’ COVID-19 morbidity and mortality burden, the progress of their vaccination campaigns and their vulnerability to the ongoing pandemic.
+
+| Variable      | Variable Name | Variable Description  | Source |
+| ------------- |-------------| -----| -----|
+| <code>casescumulativetotalper100000pop</code>   | Cases - cumulative total per 100000 population | Cases - cumulative total per 100000 population |[WHO](https://covid19.who.int/info/) |
+| <code>casesnewlyreportedinlast7daysper</code>   | New confirmed cases reported in the last 7 days per 100,000 population. | New confirmed cases reported in the last 7 days per 100,000 population. |[WHO](https://covid19.who.int/info/) |
+| <code>deathscumulativetotalper100000po</code>   | Deaths - cumulative total per 100000 population | Deaths - cumulative total per 100000 population |[WHO](https://covid19.who.int/info/) |
+| <code>total_vaccinations_per100</code>   | Cumulative total vaccine doses administered per 100 population | Cumulative total vaccine doses administered per 100 population |[WHO](https://covid19.who.int/info/) |
+| <code>persons_vaccinated_1plus_dose_pe</code>   | Cumulative persons vaccinated with at least one dose per 100 population | Cumulative persons vaccinated with at least one dose per 100 population |[WHO](https://covid19.who.int/info/) |
+| <code>persons_fully_vaccinated_per100</code>   | Cumulative number of persons fully vaccinated per 100 population | Cumulative number of persons fully vaccinated per 100 population |[WHO](https://covid19.who.int/info/) |
+| <code>total_boosters_per_hundred</code>   | Total number of boosters administered per 100 people | Total number of boosters administered per 100 people |[OWID](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations) |
+| <code>first_vaccine_date</code>   | Date of First Vaccine & Number of days elapsed | Date of first vaccinations & Number of days elapsed. Equivalent to start/launch date of the first vaccine administered in a country. |[WHO](https://covid19.who.int/info/) |
+| <code>number_vaccines_types_used</code>   | Number of Vaccine Type used | Number of vaccine types used per country, territory, area. |[WHO](https://covid19.who.int/info/) |
+| <code>informcovid19risk</code> | INFORM COVID-19 Risk Index | The INFORM COVID Risk Index is a composite index that identifies: “countries at risk from health and humanitarian impacts of COVID-19 that could overwhelm current national response capacity, and therefore lead to a need for additional international assistance”. The index ranges between values 0- 10.The Inform COVID-19 Risk index aggregates multidimensional information on COVID-related hazards and exposures (e.g. population density, WaSH availability), COVID-19-specific vulnerabilities (movement, awareness, trust, demographics and comorbidities), Socio-economic vulnerabilities (including HDI, MPI, GII, Gini, Economic Dependency Index and information on vulnerable groups) and lack of coping capacity (e.g. country preparedness, health system capacity, immunization coverage). |[INFORM Covid-19](https://drmkc.jrc.ec.europa.eu/inform-index/inform-covid-19 ) |
+
+## Dataset Updates
+Currently, the dataset is updated every Wednesday at 02:30am EST.
+
+## Sample Analyses
+
+
+
+
+
 
 
 
