@@ -7,4 +7,9 @@ The multidimensional and socio-economic approach to vaccine equity provides new 
 
 <h2> Our Dataset </h2>
 Currently, the country and regionallevel data presented on the Global Dashboard is divided into three broad themes.
-1.	Accessibility: includes variables that describe the current global supply and its utilisation and
+
+<ul> Accessibility: includes variables that describe the current global supply and its utilisation and
+
+
+
+</ul>
