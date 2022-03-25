@@ -11,7 +11,7 @@ It draws available information from existing COVID-19 dashboards and datasets. I
 The multidimensional and socio-economic approach to vaccine equity provides new insights into access to and affordability of vaccines globally anchored in fundamental development challenges of debt, economic recovery, employment, and welfare.
 
 ## Our Dataset
-Currently, the country and regionallevel data presented on the Global Dashboard is divided into three broad themes.
+Currently, the country and regional level data presented on the Global Dashboard is divided into three broad themes.
 
 ### Accessibility:
 Includes variables that describe the current global supply and its utilisation and in-country prioritisation.	
