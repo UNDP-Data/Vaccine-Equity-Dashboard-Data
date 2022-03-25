@@ -19,8 +19,9 @@ includes variables that describe the current global supply and its utilisation a
 | Variable      | Variable Name | Variable Description  | Source |
 | ------------- |-------------| -----| -----|
 | <code>securedvaccineofpopulation</code>     | Secured and/or Expected Vaccine Supply in total doses (% of population) | Final total secured and/or expected vaccine supply including bilateral deals, bilateral donations, COVAX, domestic supply and others (doses as percent of population). | [IMF-WHO-COVID-19-Vaccine-Supply-Tracker](https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker)
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| <code>deliveredpopulation</code>      | Vaccine doses received (% of population)| Delivered vaccines includes vaccines that have been made available in the country (% of population)| [Multilateral Leaders Task Force on COVID-19](https://data.covid19taskforce.com/data/tools/vaccine-delivery) |
+| <code>donationsoftotal</code>     | Percent donations received | Records the number of received vaccine donations as a percentage of all vaccine deliveries.| [IMF-WHO-COVID-19-Vaccine-Supply-Tracker](https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker) |
+
 
 <table>
 <thead>
@@ -33,28 +34,6 @@ includes variables that describe the current global supply and its utilisation a
 </thead>
 <tbody>
 
-<tr>
-<td><code>securedvaccineofpopulation</code></td>
-<td>Secured and/or Expected Vaccine Supply in total doses (% of population)</td>
-<td>Final total secured and/or expected vaccine supply including bilateral deals, bilateral donations, COVAX, domestic supply and others (doses as percent of population).</td>
-<td><a href="https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker
-">IMF-WHO-COVID-19-Vaccine-Supply-Tracker</a></td>
-</tr>
-
-<tr>
-<td><code>deliveredpopulation</code></td>
-<td>Vaccine doses received (% of population)</td>
-<td>Delivered vaccines includes vaccines that have been made available in the country (% of population)</td>
-<td><a href="https://data.covid19taskforce.com/data/tools/vaccine-delivery">Multilateral Leaders Task Force on COVID-19</a></td>
-</tr>
-
-<tr>
-<td><code>donationsoftotal</code></td>
-<td>Percent donations received</td>
-<td>Records the number of received vaccine donations as a percentage of all vaccine deliveries.</td>
-<td><a href="https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker
-">IMF-WHO-COVID-19-Vaccine-Supply-Tracker</a></td>
-</tr>
 
 <tr>
 <td><code>utilrate_lag</code></td>
