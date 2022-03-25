@@ -13,6 +13,7 @@ Currently, the country and regionallevel data presented on the Global Dashboard 
 
 <br>
 <br>
+<p>
 <ul>
 <li data-menu-item="i0code-tab" hidden><b>Accessibility: </b>  includes variables that describe the current global supply and its utilisation and in-country prioritisation.
 
@@ -96,8 +97,11 @@ The nine metrics used to calculate the Stringency Index are: school closures; wo
 <td><a href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-index-of-service-coverage">WHO</a></td>
 </tr>
 </tbody>
-
+</li>
+</ul>
+</p>
 <br>
+<ul>
 <li data-menu-item="i0code-tab" hidden><b>Affordability: </b>  includes variables depicting the estimated relative costs of vaccination campaigns as well as the affordability of vaccines to individuals.
 
 
