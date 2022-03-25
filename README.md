@@ -16,7 +16,7 @@ Currently, the country and regionallevel data presented on the Global Dashboard 
 <br>
 <p>
 <h3>Accessibility: </h3>  includes variables that describe the current global supply and its utilisation and in-country prioritisation.
-
+	
 
 <table>
 <thead>
@@ -101,7 +101,6 @@ The nine metrics used to calculate the Stringency Index are: school closures; wo
 </p>
 <br>
 <p>
-<ul>
 <h3>Affordability:</h3>  includes variables depicting the estimated relative costs of vaccination campaigns as well as the affordability of vaccines to individuals.
 
 
