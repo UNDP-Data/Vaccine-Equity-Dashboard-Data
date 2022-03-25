@@ -14,6 +14,8 @@ Currently, the country and regionallevel data presented on the Global Dashboard 
 
 <ul>
 <li data-menu-item="i0code-tab" hidden> <b>Accessibility: </b>  includes variables that describe the current global supply and its utilisation and in-country prioritisation.
+
+
 <table>
 <thead>
 <tr>
@@ -26,10 +28,16 @@ Currently, the country and regionallevel data presented on the Global Dashboard 
 <tbody>
 <tr>
 <td><code>securedvaccineofpopulation</code></td>
-<td>Secured and/or Expected Vaccine Supply in total courses (% of population)</td>
+<td>Secured and/or Expected Vaccine Supply in total doses (% of population)</td>
 <td>Final total secured and/or expected vaccine supply including bilateral deals, bilateral donations, COVAX, domestic supply and others (doses as percent of population).</td>
 <td><a href="https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker
 ">IMF-WHO-COVID-19-Vaccine-Supply-Tracker</a></td>
+</tr>
+<tr>
+<td><code>deliveredpopulation</code></td>
+<td>Vaccine doses received (% of population)</td>
+<td>Delivered vaccines includes vaccines that have been made available in the country (% of population)</td>
+<td><a href="https://data.covid19taskforce.com/data/tools/vaccine-delivery">Multilateral Leaders Task Force on COVID-19</a></td>
 </tr>
 
 </li>
