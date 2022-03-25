@@ -1,5 +1,6 @@
 
 # Vaccine Equity Dashboard Data
+---
 
 The availability of multidimensional, high-quality data is critical to supporting governments in making well-informed, data-driven decisions during the ongoing COVID-19 pandemic. For a better, more equitable recovery, effective COVID-19 vaccines need to be distributed widely and fairly, accounting for global and subnational vulnerabilities and leaving no one behind. Thus, global supply, allocation, utilization capabilities and cost of vaccines are all crucial to assessing the equitability of COVID-19 vaccination efforts.
 
@@ -14,6 +15,12 @@ Currently, the country and regionallevel data presented on the Global Dashboard 
 
 ### Accessibility:
 includes variables that describe the current global supply and its utilisation and in-country prioritisation.	
+
+| Variable      | Variable Name | Variable Description  | Source |
+| ------------- |:-------------:| -----:| -----:|
+| <code>securedvaccineofpopulation</code>     | Secured and/or Expected Vaccine Supply in total doses (% of population) | Final total secured and/or expected vaccine supply including bilateral deals, bilateral donations, COVAX, domestic supply and others (doses as percent of population). | [IMF-WHO-COVID-19-Vaccine-Supply-Tracker](https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker)
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 <table>
 <thead>
