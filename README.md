@@ -1,4 +1,4 @@
-<h1>Vaccine Equity Dashboard Data</h1>
+
 # Vaccine Equity Dashboard Data
 ## Vaccine Equity Dashboard Data
 
