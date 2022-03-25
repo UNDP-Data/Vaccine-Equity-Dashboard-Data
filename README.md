@@ -11,9 +11,10 @@ The multidimensional and socio-economic approach to vaccine equity provides new 
 <h2> Our Dataset </h2>
 Currently, the country and regionallevel data presented on the Global Dashboard is divided into three broad themes.
 
-
+<br>
+<br>
 <ul>
-<li data-menu-item="i0code-tab" hidden> <br> <b>Accessibility: </b>  includes variables that describe the current global supply and its utilisation and in-country prioritisation.
+<li data-menu-item="i0code-tab" hidden><b>Accessibility: </b>  includes variables that describe the current global supply and its utilisation and in-country prioritisation.
 
 
 <table>
@@ -26,6 +27,7 @@ Currently, the country and regionallevel data presented on the Global Dashboard 
 </tr>
 </thead>
 <tbody>
+
 <tr>
 <td><code>securedvaccineofpopulation</code></td>
 <td>Secured and/or Expected Vaccine Supply in total doses (% of population)</td>
@@ -77,8 +79,38 @@ Currently, the country and regionallevel data presented on the Global Dashboard 
 <td><a href="https://github.com/OxCGRT/covid-policy-tracker/">OxCGRT</a></td>
 </tr>
 
+<tr>
+<td><code>stringencyindex </code></td>
+<td>Stringency Index</td>
+<td>The Oxford Coronavirus Government Response Tracker (OxCGRT) project calculate a Stringency Index, a composite measure of nine of the response metrics. The index on any given day is calculated as the mean score of the nine metrics, each taking a value between 0 and 100. A higher score indicates a stricter response (i.e. 100 = strictest response). 
+The nine metrics used to calculate the Stringency Index are: school closures; workplace closures; cancellation of public events; restrictions on public gatherings; closures of public transport; stay-at-home requirements; public information campaigns; restrictions on internal movements; and international travel controls.
+</td>
+<td><a href="https://github.com/OxCGRT/covid-policy-tracker/">OxCGRT</a></td>
+</tr>
 
 
+<tr>
+<td><code>uhc</code></td>
+<td>UHC Index of service coverage (SCI)</td>
+<td>Coverage of essential health services (defined as the average coverage of essential services based on tracer interventions that include reproductive, maternal, newborn and child health, infectious diseases, non-communicable diseases and service capacity and access, among the general and the most disadvantaged population). The indicator is an index reported on a unitless scale of 0 to 100, which is computed as the geometric mean of 14 tracer indicators of health service coverage. The tracer indicators are as follows, organized by four components of service coverage: 1. Reproductive, maternal, newborn and child health 2. Infectious diseases 3. Noncommunicable diseases 4. Service capacity and access See the 2019 monitoring report for the tracer indicator within each component.</td>
+<td><a href="https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-index-of-service-coverage">WHO</a></td>
+</tr>
+</tbody>
+
+<br>
+<li data-menu-item="i0code-tab" hidden><b>Affordability: </b>  includes variables depicting the estimated relative costs of vaccination campaigns as well as the affordability of vaccines to individuals.
+
+
+<table>
+<thead>
+<tr>
+<th>Variable</th>
+<th>Variable Name</th>
+<th>Variable Description</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
 
 </li>
 </ul>
