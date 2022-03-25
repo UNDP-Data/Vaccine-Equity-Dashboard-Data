@@ -98,7 +98,7 @@ Currently, the dataset is updated every Wednesday at 02:30am EST.
 
 
 ## Changelog
-On March 25, 2022, we uploaded the dataset to GitHub.
+* On March 25, 2022, we uploaded the dataset to GitHub.
 
 ## License
 All data provided by third parties and reproduced by UNDP is subject to license terms from the original third party.
