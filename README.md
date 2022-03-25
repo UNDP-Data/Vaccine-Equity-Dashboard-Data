@@ -16,7 +16,7 @@ Currently, the country and regionallevel data presented on the Global Dashboard 
 ### Accessibility:
 includes variables that describe the current global supply and its utilisation and in-country prioritisation.	
 
-| *Variable*      | *Variable Name* | *Variable Description*  | *Source* |
+| **Variable**      | **Variable Name** | **Variable Description**  | **Source** |
 | ------------- |-------------| -----| -----|
 | <code>securedvaccineofpopulation</code>     | Secured and/or Expected Vaccine Supply in total doses (% of population) | Final total secured and/or expected vaccine supply including bilateral deals, bilateral donations, COVAX, domestic supply and others (doses as percent of population). | [IMF-WHO-COVID-19-Vaccine-Supply-Tracker](https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker)
 | <code>deliveredpopulation</code>      | Vaccine doses received (% of population)| Delivered vaccines includes vaccines that have been made available in the country (% of population)| [Multilateral Leaders Task Force on COVID-19](https://data.covid19taskforce.com/data/tools/vaccine-delivery) |
@@ -35,7 +35,7 @@ includes variables that describe the current global supply and its utilisation a
 ### Affordability
 includes variables depicting the estimated relative costs of vaccination campaigns as well as the affordability of vaccines to individuals.
 
-| *Variable*      | *Variable Name* | *Variable Description*  | *Source* |
+| **Variable**      | **Variable Name** | **Variable Description**  | **Source** |
 | ------------- |-------------| -----| -----|
 | <code>pricebracket_che40</code>      | Cost of vaccinating 40% of population as a percent of current health expenditure |Cost of vaccinating 40% of population as percent of current health expenditure (CHE) per capita in US$ (low income US$3.89 per dose; lower middle US$5.04 per dose; upper middle US$8.49 per dose; high income US$11.39 per dose) | [UNICEF](https://www.unicef.org/supply/covid-19-vaccine-market-dashboard) |
 | <code>gap_percapita</code> | Financial gap per capita in US$ for 133 low and middle income countries (in-country delivery only) | Financial gap in achieving 70% coverage by end 2022 (per capita) (US$) for 133 low and middle income countries (cost include in-country delivery only). Estimated as of 10 January 2022. |[UNICEF](https://www.unicef.org/documents/costs-and-predicted-financing-gap-deliver-covid-19-vaccines-133-low-and-middle-income ) |
@@ -55,7 +55,7 @@ includes variables depicting the estimated relative costs of vaccination campaig
 ### Common
 contains variables on countries’ COVID-19 morbidity and mortality burden, the progress of their vaccination campaigns and their vulnerability to the ongoing pandemic.
 
-| *Variable*      | *Variable Name* | *Variable Description*  | *Source* |
+| **Variable**      | **Variable Name** | **Variable Description**  | **Source** |
 | ------------- |-------------| -----| -----|
 | <code>casescumulativetotalper100000pop</code>   | Cases - cumulative total per 100000 population | Cases - cumulative total per 100000 population |[WHO](https://covid19.who.int/info/) |
 | <code>new_cases</code>   | New confirmed cases of COVID-19 | New confirmed cases of COVID-19 (last 24 hours)|[WHO](https://covid19.who.int/info/) |
