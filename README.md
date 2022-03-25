@@ -99,8 +99,8 @@ The nine metrics used to calculate the Stringency Index are: school closures; wo
 </tbody>
 
 </p>
-<br>
 <p>
+<br>
 <h3>Affordability:</h3>  includes variables depicting the estimated relative costs of vaccination campaigns as well as the affordability of vaccines to individuals.
 
 
