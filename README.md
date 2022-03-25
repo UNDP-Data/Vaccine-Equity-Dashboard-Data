@@ -1,4 +1,6 @@
 <h1>Vaccine Equity Dashboard Data</h1>
+# Vaccine Equity Dashboard Data
+## Vaccine Equity Dashboard Data
 
 <p>The availability of multidimensional, high-quality data is critical to supporting governments in making well-informed, data-driven decisions during the ongoing COVID-19 pandemic. For a better, more equitable recovery, effective COVID-19 vaccines need to be distributed widely and fairly, accounting for global and subnational vulnerabilities and leaving no one behind. Thus, global supply, allocation, utilization capabilities and cost of vaccines are all crucial to assessing the equitability of COVID-19 vaccination efforts.</p>
 
@@ -12,10 +14,8 @@
 <h2> Our Dataset </h2>
 Currently, the country and regionallevel data presented on the Global Dashboard is divided into three broad themes.
 </p>
-<br>
-<br>
 <p>
-<h3>Accessibility: </h3>  includes variables that describe the current global supply and its utilisation and in-country prioritisation.
+<h3>Accessibility: </h3>  includes variables that describe the current global supply and its utilisation and in-country prioritisation.</p>
 	
 
 <table>
@@ -69,7 +69,7 @@ Currently, the country and regionallevel data presented on the Global Dashboard 
 <tr>
 <td><code>h7_vaccinationpolicy</code></td>
 <td>Vaccination delivery policy</td>
-<td>Records policies for vaccine delivery for different groups:<br>
+<td>Records policies for vaccine delivery for different groups:
 0 - No availability <br>
 1 - Availability for ONE of following: key workers/ clinically vulnerable groups (non elderly) / elderly groups <br>
 2 - Availability for TWO of following: key workers/ clinically vulnerable groups (non elderly) / elderly groups <br>
@@ -89,7 +89,6 @@ The nine metrics used to calculate the Stringency Index are: school closures; wo
 <td><a href="https://github.com/OxCGRT/covid-policy-tracker/">OxCGRT</a></td>
 </tr>
 
-
 <tr>
 <td><code>uhc</code></td>
 <td>UHC Index of service coverage (SCI)</td>
@@ -100,9 +99,8 @@ The nine metrics used to calculate the Stringency Index are: school closures; wo
 
 </p>
 <p>
-<br>
 <h3>Affordability:</h3>  includes variables depicting the estimated relative costs of vaccination campaigns as well as the affordability of vaccines to individuals.
-
+</p>
 
 <table>
 <thead>
@@ -115,4 +113,10 @@ The nine metrics used to calculate the Stringency Index are: school closures; wo
 </thead>
 <tbody>
 
-</p>
+<tr>
+<td><code>securedvaccineofpopulation</code></td>
+<td>Secured and/or Expected Vaccine Supply in total doses (% of population)</td>
+<td>Final total secured and/or expected vaccine supply including bilateral deals, bilateral donations, COVAX, domestic supply and others (doses as percent of population).</td>
+<td><a href="https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker
+">IMF-WHO-COVID-19-Vaccine-Supply-Tracker</a></td>
+</tr>
