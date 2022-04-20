@@ -87,7 +87,7 @@ Contains variables on countries’ COVID-19 morbidity and mortality burden, the 
 | 2 |[Multilateral Leaders Task Force on COVID-19](https://data.covid19taskforce.com/data/tables)|Complete Dataset.xlsx | Excel: Tab 'Complete Dataset' | |
 | 3 |[Risk Communication Community Engagement (RCCE)](https://www.rcce-collective.net/data/behavioural-indicators/)| Raw.csv | CSV | |
 | 4 |[OxCGRT](https://github.com/OxCGRT/covid-policy-tracker/tree/master/data)| OxCGRT_latest.csv | CSV| |
-| 5 |[OxCRGT] (https://covidtracker.bsg.ox.ac.uk/) | | API| |
+| 5 |[OxCRGT](https://covidtracker.bsg.ox.ac.uk/) | | API| |
 | 6 |[WHO - NHA](https://apps.who.int/nha/database/ViewData/Indicators/en)| NHA indicators.xlsx| Excel| Current health expenditure (CHE) per capita in US$||
 | 7 |[WHO - GHO](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-index-of-service-coverage)| data.xlsx |Excel||
 | 8 |[WHO - COVID](https://covid19.who.int/data) | https://covid19.who.int/WHO-COVID-19-global-data.csv ; https://covid19.who.int/WHO-COVID-19-global-table-data.csv ; https://covid19.who.int/who-data/vaccination-data.csv ; https://covid19.who.int/who-data/vaccination-metadata.csv | CSV | |
