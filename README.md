@@ -80,6 +80,22 @@ Contains variables on countries’ COVID-19 morbidity and mortality burden, the 
 | <code>informcovid19risk</code> | INFORM COVID-19 Risk Index | The INFORM COVID Risk Index is a composite index that identifies: “countries at risk from health and humanitarian impacts of COVID-19 that could overwhelm current national response capacity, and therefore lead to a need for additional international assistance”. The index ranges between values 0- 10.The Inform COVID-19 Risk index aggregates multidimensional information on COVID-related hazards and exposures (e.g. population density, WaSH availability), COVID-19-specific vulnerabilities (movement, awareness, trust, demographics and comorbidities), Socio-economic vulnerabilities (including HDI, MPI, GII, Gini, Economic Dependency Index and information on vulnerable groups) and lack of coping capacity (e.g. country preparedness, health system capacity, immunization coverage). |[INFORM Covid-19](https://drmkc.jrc.ec.europa.eu/inform-index/inform-covid-19 ) |
 | <code>covid19riskclass</code> | COVID-19 INFORM Risk Class | COVID-19 INFORM Risk Class (0-10) |[INFORM Covid-19](https://drmkc.jrc.ec.europa.eu/inform-index/inform-covid-19 ) |
 
+## Summary of Data Sources
+|**#**|**Data Source**|     **Name**|**File Type**|**Variable Name**|
+| --| ------------- |-------------|               -----|               -----|
+| 1 |[IMF-WHO-COVID-19-Vaccine-Supply-Tracker](https://www.imf.org/en/Topics/imf-and-covid19/IMF-WHO-COVID-19-Vaccine-Supply-Tracker)| IMF-WHO COVID-19 Vaccine Supply Tracker.xlsx | Excel: Tab 'supply_tracker' | |
+| 2 |[Multilateral Leaders Task Force on COVID-19](https://data.covid19taskforce.com/data/tables)|Complete Dataset.xlsx | Excel: Tab 'Complete Dataset' | |
+| 3 |[Risk Communication Community Engagement (RCCE)](https://www.rcce-collective.net/data/behavioural-indicators/)| Raw.csv | CSV | |
+| 4 |[OxCGRT](https://github.com/OxCGRT/covid-policy-tracker/tree/master/data)| OxCGRT_latest.csv | CSV| |
+| 5 |[OxCRGT] (https://covidtracker.bsg.ox.ac.uk/) | | API| |
+| 6 |[WHO - NHA](https://apps.who.int/nha/database/ViewData/Indicators/en)| NHA indicators.xlsx| Excel| Current health expenditure (CHE) per capita in US$||
+| 7 |[WHO - GHO](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/uhc-index-of-service-coverage)| data.xlsx |Excel||
+| 8 |[WHO - COVID](https://covid19.who.int/data) | https://covid19.who.int/WHO-COVID-19-global-data.csv ; https://covid19.who.int/WHO-COVID-19-global-table-data.csv ; https://covid19.who.int/who-data/vaccination-data.csv ; https://covid19.who.int/who-data/vaccination-metadata.csv | CSV | |
+| 9 |[UNICEF](https://linksbridge.sharepoint.com/:x:/s/UNICEFCOVID-19Files/EXUtYCTM31tCuexk_WQtlZMB820NYjmDuVPwpg1X9uV_aQ?rtime=g_4u19si2kg)| Price - Price table.xlsm | Excel: Tab 'Price table'||
+| 10|[IMF WEO October 2021](https://www.imf.org/en/Publications/WEO/Issues/2021/10/12/world-economic-outlook-october-2021)|WEOOct2021all.xls| Excel: By Country||
+| 11| [OWID](https://github.com/owid/covid-19-data/tree/master/public/data) | owid-covid-data.csv | CSV ||
+| 12|[INFORM Covid-19](https://drmkc.jrc.ec.europa.eu/inform-index/inform-covid-19 )| INFORM COVID-19 RISK INDEX v014.xlsx | Excel: Tab 'INFORM COVID-19 RISK 2020 (a-z)' ||
+
 ## Dataset Updates
 Currently, the dataset is updated every Wednesday at 02:30am EST.
 
