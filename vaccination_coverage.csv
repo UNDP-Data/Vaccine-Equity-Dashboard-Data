@@ -1,5 +1,5 @@
 incomegroup,income_pop,income_deliveries,world_deliveries,income_delivery_proportion,income_deliveries_per,income_fullvac,income_fullvac_per,income_onevac_per,equal_fullvac_per,equal_booster_per
-Equal World - Boostered,,,,,,,58.749702,,,
-High Income Economies,1213356160,2842823168,13737749504,.20693514,234.2942,880845568,72.595795,78.11145,88.124557,58.749702
 Low Income Economies,665149056,316011424,13737749504,.023003144,47.509865,108616008,16.329575,20.114855,88.12455,58.749702
+High Income Economies,1213356160,2842823168,13737749504,.20693514,234.2942,880845568,72.595795,78.11145,88.124557,58.749702
 Equal World- Fully Vaccinated,,,,,,,88.12455,,,
+Equal World - Boostered,,,,,,,58.749702,,,
